@@ -14,6 +14,15 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 
 ---
 
+## Files in this Repository
+
+- `TelcoChurnSOW_8.25.25.docx` → Scope of Work  
+- `TelcoChurn_data_raw_8.25.25.csv` → Raw data from Kaggle  
+- `Telecom_Churn_DataClean.ipynb` → Python data cleaning and feature engineering
+- `TelcoChurn_cleaned.plk` → Cleaned dataset with saved python datatypes
+
+---
+
 ## Dataset
 **Source:** [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)  
 **Rows:** 7,043  
@@ -42,7 +51,7 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - **TotalCharges** → The total amount charged to the customer over their tenure  
 - **Churn** → Whether the customer left the company
 
-### Engineered
+### Feature Engineering
 - **AvgMonthlyRevenue** → On average how much customers pay per month of tenure  
 - **TenureGroup** → Tenure Groups: 0-1 years, 1-2 years, 2-4 years, or 4-6 years
 - **NumServices** → How many optional services a customer has subscribed to  
@@ -64,9 +73,3 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - Exploratory Data Analysis (EDA) report with visuals  
 - Interactive Business Intelligence dashboard  
 - Insights & Recommendations report
-
-## Files in this Repository
-
-- `TelcoChurn_cleaned.csv` → Cleaned dataset after data wrangling and feature engineering  
-- `churn_analysis.ipynb` → Jupyter notebook with churn prediction models  
-- `visualizations/` → Folder containing BI dashboards and plots
