@@ -63,4 +63,10 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - Cleaned dataset ready for analysis  
 - Exploratory Data Analysis (EDA) report with visuals  
 - Interactive Business Intelligence dashboard  
-- Insights & Recommendations report  
+- Insights & Recommendations report
+
+## Files in this Repository
+
+- `TelcoChurn_cleaned.csv` → Cleaned dataset after data wrangling and feature engineering  
+- `churn_analysis.ipynb` → Jupyter notebook with churn prediction models  
+- `visualizations/` → Folder containing BI dashboards and plots
