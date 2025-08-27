@@ -40,13 +40,21 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - **PaymentMethod** → Payment method  
 - **MonthlyCharges** → The amount charged to the customer monthly  
 - **TotalCharges** → The total amount charged to the customer over their tenure  
-- **Churn** → Whether the customer left the company 
+- **Churn** → Whether the customer left the company
+
+### Engineered
+- **AvgMonthlyRevenue** → On average how much customers pay per month of tenure  
+- **TenureGroup** → Tenure Groups: 0-1 years, 1-2 years, 2-4 years, or 4-6 years
+- **NumServices** → How many optional services a customer has subscribed to  
+- **IsAutoPay** → Autopay vs manual  
+- **RiskScore** → Churn Risk Proxy. Combine short tenure + month-to-month contract + high monthly charges: High scores = High Churn Risk 
+- **SeniorHighTech** → Senior Citizen with streaming and online sevice (high tech) 
 
 ---
 
 ## Tools & Technologies
 - **Python:** pandas, matplotlib, seaborn for data cleaning and EDA    
-- **Power BI / Tableau:** for interactive dashboards  
+- **Tableau:** for interactive dashboards  
 - **Excel:** for quick summaries and validation  
 
 ---
