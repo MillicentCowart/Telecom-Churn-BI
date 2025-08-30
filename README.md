@@ -21,6 +21,8 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - `Telecom_Churn_DataClean.ipynb` → Python data cleaning and feature engineering
 - `TelcoChurn_cleaned.plk` → Cleaned dataset with saved python datatypes
 - `CleaningReportTelcoChurn8.26.25.pdf` → Data cleaning and feature engineering report
+- `Telecom_Churn_EDA (1).ipynb` → Data cleaning and feature engineering report
+
 
 ---
 
