@@ -16,7 +16,7 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 
 ## Files in this Repository
 
-- TelcoChurnSOW_8.25.25.docx → Scope of Work  
+- `TelcoChurnSOW_8.25.25.docx` → Scope of Work  
 - `TelcoChurn_data_raw_8.25.25.csv` → Raw data from Kaggle  
 - `Telecom_Churn_DataClean.ipynb` → Python data cleaning and feature engineering
 - `TelcoChurn_cleaned.plk` → Cleaned dataset with saved python datatypes
