@@ -22,6 +22,7 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - `TelcoChurn_cleaned.plk` → Cleaned dataset with saved python datatypes
 - `CleaningReportTelcoChurn8.26.25.pdf` → Data cleaning and feature engineering report
 - `Telecom_Churn_EDA (1).ipynb` → Python exploratory data analysis and visualizations
+- `TelcoReport_9.3.2025.html` → Project Report that includes Intro, Methodology, Analysis, Insights, Recommendations, and Conclusion
 
 - `Dashboard_Demographic_ServiceAdoption.pdf` → Visualization1 of churn rate by demographics and service adoption
 - `Dashboard_Demographic_ServiceAdoption.twb` → File to create visualization1
