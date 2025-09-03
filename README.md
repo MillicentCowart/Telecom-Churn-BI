@@ -72,7 +72,7 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 ## Tools & Technologies
 - **Python:** pandas, matplotlib, seaborn for data cleaning and EDA    
 - **Tableau:** for interactive dashboards  
-- **Excel:** for quick summaries and validation  
+- **Excel:** for data saving  
 
 ---
 
@@ -81,3 +81,11 @@ The project delivers a cleaned dataset, exploratory analysis, interactive dashbo
 - Exploratory Data Analysis (EDA) report with visuals  
 - Interactive Business Intelligence dashboard  
 - Insights & Recommendations report
+
+---
+
+## Conclusions
+- This project analyzed telecom customer data to identify the major drivers of churn and provide actionable strategies for retention. The analysis revealed four primary churn factors: customer demographics, contract type, adoption of value-added services, and billing/payment methods.  
+- Key findings show that senior citizens without dependents or partners are at the highest risk of churn, especially when combined with month-to-month contracts and low adoption of support services. Additionally, reliance on electronic checks and lack of AutoPay enrollment strongly correlate with elevated churn rates.  
+- These insights suggest that churn is not driven by a single factor but by an interplay of customer demographics, service engagement, and billing practices. Addressing these areas through targeted retention strategiesm such as promoting long-term contracts, incentivizing AutoPay, and increasing adoption of security and support services can significantly reduce churn.  
+- Ultimately, by focusing on the needs of vulnerable customer segments and removing friction in service and payment experiences, the company can strengthen customer loyalty, improve profitability, and build a more resilient customer base.
